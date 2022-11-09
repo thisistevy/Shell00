@@ -1,0 +1,1 @@
+ls -F -c -lt --format=commas
